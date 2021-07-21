@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi there, Vivienne here! I love tea! All kinds of tea!
